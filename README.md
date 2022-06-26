@@ -13,4 +13,4 @@ Contoh :
 const elemen = <h1> Hello World! </h>;
 ```
 
-Sumber : (https://reactjs.org/)
+Sumber : https://reactjs.org/
